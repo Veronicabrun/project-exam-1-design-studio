@@ -68,7 +68,7 @@ The task is to create a blog site with the following required pages:
 
 ## Link
 
-- **Netlify:** https://sweet-speculoos-2088a4.netlify.app/
+- **Netlify:** project-exam-1-design-studio.netlify.app
 
 ## Contact
 
