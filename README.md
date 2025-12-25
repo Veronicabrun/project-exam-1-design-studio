@@ -68,7 +68,7 @@ The task is to create a blog site with the following required pages:
 
 ## Link
 
-- **Netlify:** project-exam-1-design-studio.netlify.app
+- **Netlify:** https://project-exam-1-design-studio.netlify.app/
 
 ## Contact
 
