@@ -1080,6 +1080,35 @@ textarea:focus {
         display: none;
     }
 }
+
+@media (max-width: 768px) {
+  .blog-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Image first */
+  .right-blog-container {
+    order: 1;
+    max-height: none; 
+  }
+
+  /* Text after */
+  .left-blog-container {
+    order: 2;
+    max-width: 100%;
+    margin-left: 0;
+    padding: 20px;
+    max-height: none; 
+  }
+
+  .blog-img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
     
 @media(max-width:732px) {
     .follow-me-container {
